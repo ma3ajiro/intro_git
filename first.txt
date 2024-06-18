@@ -1,3 +1,4 @@
 githubはじめ
 基本的な操作を試します
 test
+git status
